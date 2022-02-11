@@ -4,7 +4,7 @@
 <head> 
 
    <meta charset="utf-8" />
-   <title>GRAFIKA KOMPUTEROWA</title>
+
    <meta name="description" content="Grafika rastrowa"/>
    <meta name="keywords" content="Grafika rastrowa (potocznie bitmapa) – prezentacja obrazu za pomocą matrycy punktów w postaci prostokątnej siatki odpowiednio kolorowanych pikseli na monitorze komputera, drukarce lub innym urządzeniu wyjściowym. ... i aktualnie jest wszechobecną formą przedstawiania obrazu cyfrowego."/>
 </head>
