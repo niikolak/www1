@@ -2,14 +2,7 @@
 <!DOCTYPE HTML>
 <html lang="pl">
 <head> 
- <style>
-            body {
-                background-color: rgb(80, 90, 102);
-            }
-            h1 {
-                color:gray;
-            }
-        </style>
+
    <meta charset="utf-8" />
    <title>GRAFIKA KOMPUTEROWA</title>
    <meta name="description" content="Grafika rastrowa"/>
